@@ -1,7 +1,12 @@
 # whale_game BETA ACCESS
-Run main.py to play.
+Run 
+'''console
+main.py
+'''
+to play.
 
 # Dependencies
+Currently only runs with Python 2.
 Updated version of PyGame. Run:
 'sudo apt-get install python-pygame'
 
