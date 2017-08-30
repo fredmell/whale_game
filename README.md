@@ -9,7 +9,7 @@ to play.
 Currently only runs with Python 2.
 Updated version of PyGame. Run:
 ```console
-'sudo apt-get install python-pygame'
+sudo apt-get install python-pygame
 ```
 
 # New in this version
