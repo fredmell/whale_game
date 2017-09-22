@@ -1,3 +1,5 @@
+Small coding project from the summer of 2016, as a lession in oo-programming.
+
 # whale_game BETA ACCESS
 Run 
 ```console
