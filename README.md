@@ -1,15 +1,15 @@
-Small coding project from the summer of 2016, as a lession in oo-programming.
+Small project from the summer of 2016, as a lession in oo-programming.
 
 # whale_game BETA ACCESS
 Run 
 ```console
-main.py
+python main.py
 ```
 to play.
 
 # Dependencies
 Currently only runs with Python 2.
-Updated version of PyGame. Run:
+An updated version of PyGame is required.
 ```console
 sudo apt-get install python-pygame
 ```
