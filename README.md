@@ -1,4 +1,10 @@
-![Screenshot](screenshots/screenshot.png)
+<p align="center">
+  <img alt="Start" src="screenshots/1.png" width="30%">
+&nbsp;
+  <img alt="Middle" src="screenshots/2.png" width="30%">
+&nbsp;
+  <img alt="Game over" src="screenshots/3.png" width="30%">
+</p>
 
 Small project in the summer of 2016, to improve at OOP and have some fun.
 
