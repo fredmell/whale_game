@@ -1,6 +1,12 @@
-![Screenshot](screenshots/screenshot.png)
+<p align="center">
+  <img alt="Start" src="screenshots/1.png" width="30%">
+&nbsp;
+  <img alt="Middle" src="screenshots/2.png" width="30%">
+&nbsp;
+  <img alt="Game over" src="screenshots/3.png" width="30%">
+</p>
 
-Small project in the summer of 2016, to improve at OOP and have some fun.
+Small project from the summer of 2016 to improve at OOP and have some fun.
 
 # Whale Game
 Simply invoke
@@ -21,7 +27,7 @@ Additional oxygen can be acquired by either
 The controls are quite limited:
 - UP/DOWN are used to move up and down.
 - SPACE is used to restart the game.
-- ESC is used to exit the game. The game state, including the highscore, is gone as it is not written to disc.
+- ESC is used to exit the game. The game state, including the highscore, is gone as it is not written to disk.
 
 # Dependencies
 The game has been tested with Python 3.8.1 on a MacBook. It depends on numpy and pygame, which can be installed as follows within a virtual environment:
